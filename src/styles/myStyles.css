@@ -1,0 +1,25 @@
+#nvl {
+    color: #fff;
+}
+
+#nvl:hover {
+    color: rgb(180, 179, 179);
+    cursor: pointer;
+}
+
+#nvl-block {
+    text-align: center;
+}
+
+#post-inp {
+    width: 100%;
+    height: 90%;
+    border-radius: 4px;
+    resize: none;
+    padding: 10px 10px;
+    background-color: #f8f8f8;
+}
+
+#post-inp:focus {
+    border-color: gray;
+}
